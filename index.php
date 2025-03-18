@@ -1,4 +1,5 @@
 <?php
+// ez bizony a buborékos rendezés
 $tomb=array(11,5,4,8,7,9);
 print_r($tomb);
 echo "<br>";
