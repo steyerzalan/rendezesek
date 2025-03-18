@@ -1,5 +1,6 @@
 <?php
 // ez bizony a buborékos rendezés
+print("buborékos rendezés");
 $tomb=array(11,5,4,8,7,9);
 print_r($tomb);
 echo "<br>";
@@ -30,7 +31,7 @@ echo "<br>";
 // cserés rendezés
 $tomb2=array(11,5,4,8,7,9);
 $maxIndex2=count($tomb2)-1;
-
+print("cserés rendezés");
 print_r($tomb2);
 echo "<br>";
 
